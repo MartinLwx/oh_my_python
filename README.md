@@ -1,15 +1,31 @@
 ## Intro
 
-The repo contains a list of jupyter notebooks which show some features of python.
+The repo contains a list of jupyter notebooks which show some cool features of python. 
 
-To get a better reading experience, you may check my github pages: <http://martinlwx.github.io>
+Understanding these features will make us better python programmers(i.e. **Pythonic** programmers)
+
+To get a better reading experience, you may check my Github pages: <http://martinlwx.github.io>
+
+## Python 3.0 (Dec 3, 2008)
+
+> To see a full list of new features, please check this [link](https://docs.python.org/3/whatsnew/3.0.html)
+
+- 🎯**Unpacking operators**. [zh-ch](./Unpacking_operators.zh-cn.ipynb) | [en](./Unpacking_operators.ipynb)
+    - [PEP 3132. Extended Iterable Unpacking](https://peps.python.org/pep-3132/)
+    - [PEP 448.  Additional Unpacking Generalizations](https://peps.python.org/pep-0448/) (>= Python 3.5)
+    - 🤔**Less `[index]`, more `*` and `**`**
+
+## Python 3.5 (Sep 13, 2015)
+
+> To see a full list of new features, please check this [link](https://docs.python.org/3/whatsnew/3.5.html)
+
 
 ## Python 3.6 (Dec 23, 2016)
 
 > To see a full list of new features, please check this [link](https://docs.python.org/3/whatsnew/3.6.html)
 
 - 🎯**f-string**. [zh-cn](./f-strings.zh-cn.ipynb) | [en](./f-strings.ipynb)
-    - [PEP 378. Format Specifier for Thousands Separator](https://peps.python.org/pep-0378/) (>= Python 3.1/2.7)
+    - [PEP 378. Format Specifier for Thousands Separator](https://peps.python.org/pep-0378/) (>= Python 2.7/3.1)
     - [PEP 498. Formatted string literals](https://peps.python.org/pep-0498/)
     - [PEP 515. Underscores in Numeric Literals](https://peps.python.org/pep-0515/)
     - [PEP 682. Format Specifier for Signed Zero](https://peps.python.org/pep-0682/) (>= Python 3.11)
