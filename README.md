@@ -19,6 +19,17 @@ To get a better reading experience, you may check my Github pages: <http://marti
 
 > To see a full list of new features, please check this [link](https://docs.python.org/3/whatsnew/3.5.html)
 
+- 🎯**Type hints**. [zh-cn](./Type-hints.zh-cn.ipynb) | [en](./Type-hints.ipynb)
+    - [PEP 3107. Function Annotations](https://peps.python.org/pep-3107/) (>= Python 3.0)
+    - [PEP 483. The Theory of Type Hints](https://peps.python.org/pep-0483/)
+    - [PEP 484. Type Hints](https://peps.python.org/pep-0484/)
+    - [PEP 526. Syntax for Variable Annotations](https://peps.python.org/pep-0526/) (>= Python 3.9)
+    - [PEP 544. Protocols: Structural subtyping (static duck typing)](https://peps.python.org/pep-0544/) ( >= Python 3.8)
+    - [PEP 563. Postponed Evaluation of Annotations](https://peps.python.org/pep-0563/) (>= Python 3.7)
+    - [PEP 585. Type Hinting Generics In Standard Collections](https://peps.python.org/pep-0585/) (>= Python 3.9)
+    - [PEP 604. Allow writing union types as X | Y](https://peps.python.org/pep-0604/) (>= Python 3.10)
+    - [PEP 613. Explicit Type Aliases](https://peps.python.org/pep-0613/) (>= Python 3.10)
+
 
 ## Python 3.6 (Dec 23, 2016)
 
@@ -48,3 +59,4 @@ To get a better reading experience, you may check my Github pages: <http://marti
     - [PEP 635. Structural Pattern Matching: Motivation and Rationale](https://peps.python.org/pep-0635/)
     - [PEP 636. Structural Pattern Matching: Tutorial](https://peps.python.org/pep-0636/)
     - 🤔**Use pattern-matching instead of multiple if-elif-elif-else**
+
