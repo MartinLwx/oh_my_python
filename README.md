@@ -29,7 +29,7 @@ To get a better reading experience, you may check my Github pages: <http://marti
     - [PEP 585. Type Hinting Generics In Standard Collections](https://peps.python.org/pep-0585/) (>= Python 3.9)
     - [PEP 604. Allow writing union types as X | Y](https://peps.python.org/pep-0604/) (>= Python 3.10)
     - [PEP 613. Explicit Type Aliases](https://peps.python.org/pep-0613/) (>= Python 3.10)
-
+    - [PEP 673. Self Type](https://peps.python.org/pep-0673/) (>= Python 3.11)
 
 ## Python 3.6 (Dec 23, 2016)
 
